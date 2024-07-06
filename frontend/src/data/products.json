@@ -1,4 +1,5 @@
 [
-    { "id": 1, "name": "Product A", "picture": "url/to/picA", "stock": 10, "price": 100 },
-    { "id": 2, "name": "Product B", "picture": "url/to/picB", "stock": 5, "price": 200 }
+    { "id": 1, "date": "01/01/2021", "customer": "John", "sales_person": "Doe", "payment_type": "cash", "notes": "Lorem ipsum"},
+    { "id": 2, "date": "01/01/2021", "customer": "John", "sales_person": "Doe", "payment_type": "cash", "notes": "Lorem ipsum"},
+    { "id": 3, "date": "01/03/2021", "customer": "Jane", "sales_person": "Doe", "payment_type": "credit", "notes": "Lorem ipsum"}
   ]
